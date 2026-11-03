@@ -81,4 +81,4 @@ You need a C compiler installed on your system:
 
 ## Author
 
-- **Your Name** - [GitHub Profile](https://github.com/<your-username>)
+- **Your Name** - [tanaysolanki3108](https://github.com/<tanaysolanki3108>)
