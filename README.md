@@ -47,8 +47,7 @@ You need a C compiler installed on your system:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/tanaysolanki3108/Student-Attendance-Management-System-.git
    ```
 
 2. **Compile the program:**
